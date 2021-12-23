@@ -1,0 +1,9 @@
+[submodule "src/mt4n"]
+	path = src/mt4n
+	url = https://github.com/kajuha/mt4n.git
+[submodule "src/tfmini"]
+	path = src/tfmini
+	url = https://github.com/kajuha/tfmini.git
+[submodule "src/aliencontrol"]
+	path = src/aliencontrol
+	url = https://github.com/kajuha/aliencontrol.git
